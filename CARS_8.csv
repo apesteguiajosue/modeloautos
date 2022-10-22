@@ -20,7 +20,7 @@ Maruti Ertiga;110;Petrol;1462;4;7;Automatic;45;MUV;4.5;835000;1279000;De 1,000,0
 Kia Sonet;523;Diesel;1493;4;5;Automatic;45;SUV;4;749000;1379000;De 1,000,000 a 5,000,000;250;2750;113.43;4000;True
 Maruti Dzire;245;Petrol;1197;4;5;Automatic;37;Sedan;4.5;624000;918000;De 0 a 1,000,000;113;4400;88.5;6000;True
 Honda City 4th Generation;1067;Petrol;1497;4;5;Manual;40;Sedan;4.5;950000;1000000;De 1,000,000 a 5,000,000;145;4600;117.6;6600;True
-Land Rover Range Rover;17;Petrol;4367;8;7;Automatic;90;SUV;4.5;23900000;41700000;De 20,000,001 a más;700;3000;345.98;4000;True
+Land Rover Range Rover;17;Petrol;4367;8;7;Automatic;90;SUV;4.5;23900000;41700000;De 20,000,001 a mas;700;3000;345.98;4000;True
 Tata Tiago;435;CNG;1199;3;5;Manual;60;Hatchback;4.5;540000;782000;De 0 a 1,000,000;95;3500;72;6000;True
 Hyundai i20;432;Petrol;998;3;5;Automatic;37;Hatchback;3.5;703000;1154000;De 1,000,000 a 5,000,000;171.62;4000;118.36;6000;False
 Mahindra XUV300;2245;Diesel;1497;4;5;Automatic;42;SUV;4.5;841000;1407000;De 1,000,000 a 5,000,000;300;2500;115;3750;True
@@ -33,14 +33,14 @@ Honda City;162;Diesel;1498;4;5;Manual;40;Sedan;4.5;1157000;1552000;De 1,000,000 
 Maruti Celerio;89;Petrol;998;3;5;Automatic;32;Hatchback;3.5;525000;700000;De 0 a 1,000,000;89;3500;65.71;5500;False
 Nissan Magnite;278;Petrol;999;3;5;Automatic;40;SUV;4.5;597000;1079000;De 1,000,000 a 5,000,000;152;4400;98.63;5000;True
 Renault KWID;545;Petrol;999;3;5;Automatic;28;Hatchback;4.5;464000;599000;De 0 a 1,000,000;91;4250;67.06;5500;True
-Land Rover Defender;13;Petrol;4997;4;7;Automatic;89;SUV;4.5;8072000;21900000;De 20,000,001 a más;650;2500;296.36;4000;True
+Land Rover Defender;13;Petrol;4997;4;7;Automatic;89;SUV;4.5;8072000;21900000;De 20,000,001 a mas;650;2500;296.36;4000;True
 Maruti Alto 800;437;CNG;796;3;5;Manual;60;Hatchback;4.5;339000;503000;De 0 a 1,000,000;60;3500;40.36;6000;True
 Hyundai Kona Electric;40;Electric;0;0;5;Electric;0;SUV;4.5;2384000;2403000;De 1,000,000 a 5,000,000;395;0;134.1;0;True
 Tata Tigor;136;CNG;1199;3;5;Manual;60;Sedan;4.5;600000;859000;De 0 a 1,000,000;95;3500;72.4;6000;True
 Renault Kiger;228;Petrol;999;3;5;Automatic;40;SUV;4.5;599000;1062000;De 1,000,000 a 5,000,000;152;4400;98.63;5000;True
 Maruti S-Presso;301;Petrol;998;3;5;Automatic;27;Hatchback;4.5;425000;599000;De 0 a 1,000,000;89;3500;65.71;5500;True
 MG Astor;101;Petrol;1349;3;5;Automatic;45;SUV;4.5;1022000;1813000;De 1,000,000 a 5,000,000;220;3600;138.08;5600;True
-Lamborghini Urus;33;Petrol;3996;8;5;Automatic;75;SUV;4.5;31500000;34300000;De 20,000,001 a más;850;4500;641;6000;True
+Lamborghini Urus;33;Petrol;3996;8;5;Automatic;75;SUV;4.5;31500000;34300000;De 20,000,001 a mas;850;4500;641;6000;True
 Honda Amaze;85;Diesel;1498;4;5;Automatic;35;Sedan;4.5;663000;1150000;De 1,000,000 a 5,000,000;160;1750;79.12;3600;True
 Renault Triber;774;Petrol;999;3;7;Automatic;40;MUV;4.5;592000;851000;De 0 a 1,000,000;96;3500;71;6250;True
 Hyundai Alcazar;207;Diesel;1493;4;7;Automatic;50;SUV;4;1589000;2025000;De 1,000,000 a 5,000,000;250;2750;113.42;4000;True
@@ -64,12 +64,12 @@ Audi Q7;9;Petrol;2995;6;7;Automatic;0;SUV;4.5;8249000;8808000;De 5,000,001 a 10,
 Toyota Vellfire;13;Petrol;2494;4;7;Automatic;58;MUV;4.5;9260000;9260000;De 5,000,001 a 10,000,000;198;4000;115.32;4700;True
 Toyota Hilux;13;Diesel;2755;4;5;Automatic;80;Pickup Truck;4.5;3399000;3680000;De 1,000,000 a 5,000,000;500;2800;201.15;3400;True
 MG Gloster;74;Diesel;1996;4;7;Automatic;75;SUV;4.5;3150000;3950000;De 1,000,000 a 5,000,000;480;2400;215.01;4000;True
-Lamborghini Aventador;52;Petrol;6498;12;2;Automatic;90;Coupe;4.5;62500000;90000000;De 20,000,001 a más;720;6750;759.01;8500;True
+Lamborghini Aventador;52;Petrol;6498;12;2;Automatic;90;Coupe;4.5;62500000;90000000;De 20,000,001 a mas;720;6750;759.01;8500;True
 BMW X1;40;Diesel;1995;4;5;Automatic;51;SUV;4.5;4150000;4450000;De 1,000,000 a 5,000,000;400;2500;187.74;6000;True
 BMW X5;28;Petrol;2998;6;5;Automatic;0;SUV;4.5;7990000;9590000;De 5,000,001 a 10,000,000;450;5200;335.26;6500;True
 Toyota Camry;6;Petrol;2498;4;5;Automatic;0;Sedan;4.5;4435000;4435000;De 1,000,000 a 5,000,000;221;5200;175.67;5700;True
 Volkswagen Tiguan;5;Petrol;1984;4;5;Automatic;60;SUV;4.5;3279000;3280000;De 1,000,000 a 5,000,000;320;4100;187.74;6000;True
-Rolls-Royce Ghost;15;Petrol;6750;12;5;Automatic;0;Sedan;4.5;69500000;79500000;De 20,000,001 a más;820;1500;563;5250;True
+Rolls-Royce Ghost;15;Petrol;6750;12;5;Automatic;0;Sedan;4.5;69500000;79500000;De 20,000,001 a mas;820;1500;563;5250;True
 Skoda Octavia;20;Petrol;1984;4;5;Automatic;50;Sedan;4.5;2685000;2985000;De 1,000,000 a 5,000,000;320;3990;187.74;6000;True
 Skoda Superb;22;Petrol;1984;4;5;Automatic;66;Sedan;4.5;3349000;3659000;De 1,000,000 a 5,000,000;320;4200;187.74;6000;True
 Audi A6;19;Petrol;1984;4;5;Automatic;73;Sedan;4.5;5999000;6599000;De 5,000,001 a 10,000,000;370;4500;241.3;6500;True
@@ -93,7 +93,7 @@ Mahindra Alturas G4;122;Diesel;2157;4;7;Automatic;70;SUV;4.5;3188000;3188000;De 
 Bajaj Qute (RE60);43;CNG;216;1;4;Manual;35;Hatchback;4;361000;361000;De 0 a 1,000,000;16.1;4000;10.8;5500;True
 Volkswagen Vento;94;Petrol;999;3;5;Automatic;55;Sedan;4.5;1000000;1444000;De 1,000,000 a 5,000,000;175;4000;108.62;5500;True
 Audi Q5;3;Petrol;1984;4;5;Manual;0;SUV;4.5;5990000;6555000;De 5,000,001 a 10,000,000;370;4300;245.59;6000;True
-Ferrari Roma;2;Petrol;3855;8;2;Automatic;80;Coupe;4.5;37600000;37600000;De 20,000,001 a más;760;5750;611.5;7500;True
+Ferrari Roma;2;Petrol;3855;8;2;Automatic;80;Coupe;4.5;37600000;37600000;De 20,000,001 a mas;760;5750;611.5;7500;True
 MG ZS EV;14;Electric;0;0;5;Electric;0;SUV;4.5;2200000;2588000;De 1,000,000 a 5,000,000;280;0;173.83;0;True
 BMW 7 Series;16;Petrol;2998;6;4;Automatic;46;Sedan;4.5;14200000;17600000;De 10,000,001 a 20,000,000;450;5000;281.6;6000;True
 Mercedes-Benz E-Class;8;Diesel;2925;6;5;Automatic;0;Sedan;4.5;6700000;8500000;De 5,000,001 a 10,000,000;600;3200;281.61;4600;True
@@ -105,7 +105,7 @@ BMW 2 Series;9;Diesel;1995;4;5;Automatic;51;Sedan;4.5;4150000;4450000;De 1,000,0
 Isuzu D-Max;8;Diesel;1898;4;5;Automatic;0;SUV;4.5;1300000;2700000;De 1,000,000 a 5,000,000;360;2500;160.92;3600;True
 BMW 5 Series;6;Diesel;2993;6;5;Automatic;0;Sedan;4.5;6450000;7450000;De 5,000,001 a 10,000,000;620;2500;261.49;4000;True
 Audi Q2;10;Petrol;1984;4;5;Automatic;55;SUV;4.5;3499000;4889000;De 1,000,000 a 5,000,000;320;4180;187.74;6000;True
-Mercedes-Benz GLS;10;Petrol;3982;8;7;Automatic;90;SUV;4.5;11600000;24700000;De 20,000,001 a más;730;4500;549.81;6500;True
+Mercedes-Benz GLS;10;Petrol;3982;8;7;Automatic;90;SUV;4.5;11600000;24700000;De 20,000,001 a mas;730;4500;549.81;6500;True
 Porsche Cayenne;12;Petrol;3996;8;5;Automatic;90;SUV;4.5;12700000;19300000;De 10,000,001 a 20,000,000;770;4500;550;6000;True
 Citroen C5 Aircross;44;Diesel;1997;4;5;Automatic;52.5;SUV;4;3224000;3378000;De 1,000,000 a 5,000,000;400;2000;174.33;3750;True
 Datsun GO;312;Petrol;1198;3;5;Automatic;35;Hatchback;4.5;403000;651000;De 0 a 1,000,000;104;4400;76.43;6000;True
@@ -119,75 +119,75 @@ Mahindra KUV 100 NXT;226;Petrol;1198;3;6;Manual;35;Hatchback;4.5;618000;784000;D
 Mini Cooper SE;3;Electric;0;0;4;Automatic;0;Hatchback;4.5;5090000;5090000;De 5,000,001 a 10,000,000;270;1000;181.03;0;True
 Audi e-tron;7;Electric;0;0;5;Electric;0;Coupe;4.5;10100000;11900000;De 10,000,001 a 20,000,000;664;0;300;0;True
 Datsun GO Plus;307;Petrol;1198;3;7;Automatic;35;MUV;4.5;426000;700000;De 0 a 1,000,000;104;4400;76.43;6000;True
-Mercedes-Benz AMG G 63;8;Petrol;3982;8;5;Automatic;0;SUV;4.5;25500000;25500000;De 20,000,001 a más;850;3500;576.63;6000;True
-Mercedes-Benz AMG GT;16;Petrol;3982;8;2;Automatic;75;Coupe;4.5;27100000;27100000;De 20,000,001 a más;700;5500;576.63;6250;True
+Mercedes-Benz AMG G 63;8;Petrol;3982;8;5;Automatic;0;SUV;4.5;25500000;25500000;De 20,000,001 a mas;850;3500;576.63;6000;True
+Mercedes-Benz AMG GT;16;Petrol;3982;8;2;Automatic;75;Coupe;4.5;27100000;27100000;De 20,000,001 a mas;700;5500;576.63;6250;True
 Lexus ES;31;Petrol;2487;4;5;Automatic;65;Sedan;4.5;5950000;6560000;De 5,000,001 a 10,000,000;202;5200;214.56;5700;True
-Porsche Taycan;8;Electric;0;0;5;Electric;0;Wagon;4.5;15300000;23400000;De 20,000,001 a más;650;0;482.76;0;True
-Lexus LS;3;Petrol;3456;6;4;Automatic;82;Sedan;4.5;19100000;22200000;De 20,000,001 a más;350;5100;354;6600;True
-Rolls-Royce Cullinan;15;Petrol;6750;12;5;Automatic;0;SUV;4.5;69500000;69500000;De 20,000,001 a más;850;1600;563;5000;True
+Porsche Taycan;8;Electric;0;0;5;Electric;0;Wagon;4.5;15300000;23400000;De 20,000,001 a mas;650;0;482.76;0;True
+Lexus LS;3;Petrol;3456;6;4;Automatic;82;Sedan;4.5;19100000;22200000;De 20,000,001 a mas;350;5100;354;6600;True
+Rolls-Royce Cullinan;15;Petrol;6750;12;5;Automatic;0;SUV;4.5;69500000;69500000;De 20,000,001 a mas;850;1600;563;5000;True
 Isuzu MU-X;2;Diesel;1898;4;7;Automatic;55;SUV;4.5;3500000;3790000;De 1,000,000 a 5,000,000;360;2500;160.92;3600;True
 BMW iX;3;Electric;0;0;5;Electric;0;SUV;4.5;11600000;11600000;De 10,000,001 a 20,000,000;630;0;321.84;0;True
-Bentley Flying Spur;9;Petrol;5950;12;4;Automatic;90;Sedan;4.5;32200000;34100000;De 20,000,001 a más;900;4500;626;6000;True
+Bentley Flying Spur;9;Petrol;5950;12;4;Automatic;90;Sedan;4.5;32200000;34100000;De 20,000,001 a mas;900;4500;626;6000;True
 Mercedes-Benz S-Class;12;Petrol;2999;6;5;Automatic;0;Sedan;4.5;16000000;16900000;De 10,000,001 a 20,000,000;500;4500;362.07;6100;True
-Maserati Quattroporte;2;Petrol;3799;8;5;Automatic;80;Sedan;4.5;17100000;21200000;De 20,000,001 a más;650;4000;530;6800;True
+Maserati Quattroporte;2;Petrol;3799;8;5;Automatic;80;Sedan;4.5;17100000;21200000;De 20,000,001 a mas;650;4000;530;6800;True
 Jaguar XF;31;Diesel;1997;4;5;Automatic;0;Sedan;4.5;7160000;7600000;De 5,000,001 a 10,000,000;430;2500;201.15;4250;True
 Mercedes-Benz GLC;38;Diesel;1950;4;5;Automatic;66;SUV;4.5;6200000;6800000;De 5,000,001 a 10,000,000;400;2800;194;3800;True
-Ferrari Portofino;5;Petrol;3855;8;4;Automatic;81;Convertible;4.5;35000000;35000000;De 20,000,001 a más;760;5250;591.79;7500;True
-Mercedes-Benz Maybach S-Class;7;Petrol;5980;12;4;Automatic;0;Sedan;4.5;25000000;32000000;De 20,000,001 a más;900;4000;603.46;5500;True
+Ferrari Portofino;5;Petrol;3855;8;4;Automatic;81;Convertible;4.5;35000000;35000000;De 20,000,001 a mas;760;5250;591.79;7500;True
+Mercedes-Benz Maybach S-Class;7;Petrol;5980;12;4;Automatic;0;Sedan;4.5;25000000;32000000;De 20,000,001 a mas;900;4000;603.46;5500;True
 Maserati Levante;4;Petrol;2979;6;5;Automatic;80;SUV;3.5;14900000;16400000;De 10,000,001 a 20,000,000;580;5750;350;5750;False
 Tata Yodha Pickup;4;Diesel;2956;4;4;Manual;45;Pickup Truck;4.5;695000;750000;De 0 a 1,000,000;250;2000;85;3000;True
-Aston Martin DBX;5;Diesel;3982;8;5;Automatic;85;SUV;4.5;38200000;38200000;De 20,000,001 a más;700;5000;542;6500;True
-Bentley Continental;17;Petrol;5998;12;4;Automatic;90;Convertible;4.5;32900000;39100000;De 20,000,001 a más;700;1600;562;6000;True
-Mercedes-Benz EQS;2;Electric;0;0;5;Electric;0;Sedan;5;25400000;25400000;De 20,000,001 a más;1020;0;750.97;0;True
-Ferrari 812;3;Petrol;6496;8;2;Automatic;92;Convertible;4.5;57500000;57500000;De 20,000,001 a más;718;7000;788.52;8500;True
-Audi RS7;4;Petrol;3996;6;4;Automatic;73;Luxury;4.5;22400000;22400000;De 20,000,001 a más;800;4500;591;6250;True
-Mercedes-Benz AMG GLE 63 S;2;Petrol;3982;8;5;Automatic;0;SUV;4.5;21500000;21500000;De 20,000,001 a más;850;5000;603.46;6500;True
-Mclaren GT;1;Petrol;3994;8;;Automatic;72;Coupe;4.5;45000000;45000000;De 20,000,001 a más;630;0;611.51;0;True
+Aston Martin DBX;5;Diesel;3982;8;5;Automatic;85;SUV;4.5;38200000;38200000;De 20,000,001 a mas;700;5000;542;6500;True
+Bentley Continental;17;Petrol;5998;12;4;Automatic;90;Convertible;4.5;32900000;39100000;De 20,000,001 a mas;700;1600;562;6000;True
+Mercedes-Benz EQS;2;Electric;0;0;5;Electric;0;Sedan;5;25400000;25400000;De 20,000,001 a mas;1020;0;750.97;0;True
+Ferrari 812;3;Petrol;6496;8;2;Automatic;92;Convertible;4.5;57500000;57500000;De 20,000,001 a mas;718;7000;788.52;8500;True
+Audi RS7;4;Petrol;3996;6;4;Automatic;73;Luxury;4.5;22400000;22400000;De 20,000,001 a mas;800;4500;591;6250;True
+Mercedes-Benz AMG GLE 63 S;2;Petrol;3982;8;5;Automatic;0;SUV;4.5;21500000;21500000;De 20,000,001 a mas;850;5000;603.46;6500;True
+Mclaren GT;1;Petrol;3994;8;;Automatic;72;Coupe;4.5;45000000;45000000;De 20,000,001 a mas;630;0;611.51;0;True
 Mercedes-Benz G-Class;12;Diesel;2925;6;5;Automatic;100;SUV;4.5;17200000;17200000;De 10,000,001 a 20,000,000;600;3200;281.61;4600;True
-Nissan GT-R;20;Petrol;3798;6;4;Automatic;74;Coupe;4.5;21200000;21200000;De 20,000,001 a más;637;5800;562.2;6800;True
+Nissan GT-R;20;Petrol;3798;6;4;Automatic;74;Coupe;4.5;21200000;21200000;De 20,000,001 a mas;637;5800;562.2;6800;True
 BMW M2;5;Petrol;2979;6;4;Automatic;52;Coupe;4.5;8500000;8500000;De 5,000,001 a 10,000,000;550;5230;410;6250;True
 Mahindra E Verito;14;Electric;0;0;5;Electric;0;Sedan;4;913000;946000;De 0 a 1,000,000;91;3000;41.57;3500;True
-Rolls Royce Wraith;6;Petrol;6592;12;4;Automatic;83;Coupe;4.5;62200000;72100000;De 20,000,001 a más;900;4500;591;5500;True
+Rolls Royce Wraith;6;Petrol;6592;12;4;Automatic;83;Coupe;4.5;62200000;72100000;De 20,000,001 a mas;900;4500;591;5500;True
 Mercedes-Benz V-Class;8;Diesel;2143;4;7;Automatic;57;MUV;4.5;7110000;14600000;De 10,000,001 a 20,000,000;380;2400;161;3800;True
-Porsche 911;8;Petrol;2981;6;4;Automatic;64;Coupe;4.5;17300000;31400000;De 20,000,001 a más;450;5000;641;6500;True
-Porsche Panamera;1;Petrol;2894;8;5;Automatic;0;Wagon;4.5;15800000;27100000;De 20,000,001 a más;770;4500;680;6000;True
+Porsche 911;8;Petrol;2981;6;4;Automatic;64;Coupe;4.5;17300000;31400000;De 20,000,001 a mas;450;5000;641;6500;True
+Porsche Panamera;1;Petrol;2894;8;5;Automatic;0;Wagon;4.5;15800000;27100000;De 20,000,001 a mas;770;4500;680;6000;True
 Mini Cooper Convertible;14;Petrol;1998;4;4;Automatic;44;Convertible;4.5;5150000;5150000;De 5,000,001 a 10,000,000;280;1250;189.08;6000;True
 Maserati Ghibli;2;Petrol;3799;8;5;Automatic;80;Sedan;3;11500000;19300000;De 10,000,001 a 20,000,000;450;1500;330;1500;False
 Lexus NX;1;Petrol;2487;4;5;Automatic;55;SUV;4;6490000;7160000;De 5,000,001 a 10,000,000;239;4500;187.74;6000;True
 Land Rover Discovery Sport;6;Petrol;1997;4;7;Automatic;70;SUV;4.5;6530000;7139000;De 5,000,001 a 10,000,000;365;4500;245.4;5500;True
-Bentley Bentayga;1;Petrol;3956;8;4;Automatic;85;SUV;4;41000000;41000000;De 20,000,001 a más;770;4500;542;6000;True
+Bentley Bentayga;1;Petrol;3956;8;4;Automatic;85;SUV;4;41000000;41000000;De 20,000,001 a mas;770;4500;542;6000;True
 Ferrari SF90 Stradale;8;Petrol;3990;8;2;Automatic;68;Coupe;4.5;450000;450000;De 0 a 1,000,000;800;6000;769.31;7500;True
-Strom Motors R3;2;Electric;0;0;2;Electric;0;Hatchback;3.5;21600000;22000000;De 20,000,001 a más;90;0;20.11;0;False
-Lexus LC 500h;1;Petrol;3456;6;4;Automatic;82;Coupe;4.5;22500000;25100000;De 20,000,001 a más;350;5100;295.02;6600;True
-Maserati GranTurismo;3;Petrol;4691;8;4;Automatic;86;Coupe;5;40200000;40200000;De 20,000,001 a más;520;4750;460;7000;True
+Strom Motors R3;2;Electric;0;0;2;Electric;0;Hatchback;3.5;21600000;22000000;De 20,000,001 a mas;90;0;20.11;0;False
+Lexus LC 500h;1;Petrol;3456;6;4;Automatic;82;Coupe;4.5;22500000;25100000;De 20,000,001 a mas;350;5100;295.02;6600;True
+Maserati GranTurismo;3;Petrol;4691;8;4;Automatic;86;Coupe;5;40200000;40200000;De 20,000,001 a mas;520;4750;460;7000;True
 Ferrari F8 Tributo;6;Petrol;3902;8;2;Automatic;78;Coupe;3.5;8580000;12500000;De 10,000,001 a 20,000,000;770;3250;710.74;8000;False
 Mercedes-Benz GLE;2;Diesel;2925;6;5;Automatic;93;SUV;4.5;14400000;14400000;De 10,000,001 a 20,000,000;700;4000;325.8;4200;True
-BMW M4 Competition;11;Petrol;2993;6;5;Automatic;0;Coupe;4.5;16200000;22300000;De 20,000,001 a más;650;5500;502.88;6250;True
+BMW M4 Competition;11;Petrol;2993;6;5;Automatic;0;Coupe;4.5;16200000;22300000;De 20,000,001 a mas;650;5500;502.88;6250;True
 BMW 8 Series;3;Petrol;4395;8;4;Automatic;68;Coupe;4.5;4200000;4600000;De 1,000,000 a 5,000,000;750;5600;600;6000;True
 Mini Cooper Countryman;13;Petrol;1998;4;5;Automatic;51;SUV;4.5;4200000;4400000;De 1,000,000 a 5,000,000;280;1350;189.08;6000;True
-Mercedes-Benz A-Class Limousine;3;Diesel;1950;4;5;Automatic;66;Sedan;4.5;13700000;25400000;De 20,000,001 a más;320;3500;147.51;4000;True
+Mercedes-Benz A-Class Limousine;3;Diesel;1950;4;5;Automatic;66;Sedan;4.5;13700000;25400000;De 20,000,001 a mas;320;3500;147.51;4000;True
 Maserati GranCabrio;2;Diesel;4691;8;4;Automatic;75;Convertible;4;15900000;15900000;De 10,000,001 a 20,000,000;520;0;460;0;True
-Mercedes-Benz AMG GLE 53;1;Petrol;2999;6;5;Automatic;85;Coupe;4.5;30000000;35000000;De 20,000,001 a más;520;5800;435;6100;True
+Mercedes-Benz AMG GLE 53;1;Petrol;2999;6;5;Automatic;85;Coupe;4.5;30000000;35000000;De 20,000,001 a mas;520;5800;435;6100;True
 Aston Martin Vantage;3;Petrol;3998;8;2;Manual;73;Convertible;3.5;9950000;9950000;De 5,000,001 a 10,000,000;675;5000;502.88;6000;False
 Mercedes-Benz EQC;1;Electric;0;0;5;Automatic;0;SUV;4.5;8247000;8247000;De 5,000,001 a 10,000,000;760;0;402.3;0;True
 Mercedes-Benz AMG C 43;1;Petrol;2996;6;5;Automatic;0;Coupe;4.5;11100000;11100000;De 10,000,001 a 20,000,000;520;5000;384.87;6100;True
 Lexus RX;5;Petrol;3456;6;5;Automatic;65;SUV;5;726000;726000;De 0 a 1,000,000;335;4600;258.81;6000;True
 Hyundai Xcent Prime;8;CNG;1197;4;5;Manual;65;Sedan;4.5;12000000;12400000;De 10,000,001 a 20,000,000;97.96;4200;65.39;5600;True
-Jaguar I-Pace;6;Electric;0;0;5;Electric;0;SUV;4.5;70600000;76400000;De 20,000,001 a más;696;0;394.26;0;True
-Rolls Royce Dawn;2;Petrol;6598;12;4;Automatic;0;Convertible;4;20800000;20800000;De 20,000,001 a más;820;5000;563;6000;True
-BMW X5 M;30;Petrol;4395;8;5;Automatic;83;SUV;5;32100000;49900000;De 20,000,001 a más;750;5600;616.87;6000;True
+Jaguar I-Pace;6;Electric;0;0;5;Electric;0;SUV;4.5;70600000;76400000;De 20,000,001 a mas;696;0;394.26;0;True
+Rolls Royce Dawn;2;Petrol;6598;12;4;Automatic;0;Convertible;4;20800000;20800000;De 20,000,001 a mas;820;5000;563;6000;True
+BMW X5 M;30;Petrol;4395;8;5;Automatic;83;SUV;5;32100000;49900000;De 20,000,001 a mas;750;5600;616.87;6000;True
 Lamborghini Huracan EVO;5;Petrol;5204;10;2;Automatic;80;Coupe;4.5;4000000;4000000;De 1,000,000 a 5,000,000;565;6500;630.28;8000;True
 Mini Cooper 3 DOOR;15;Petrol;1998;4;4;Automatic;44;Hatchback;4.5;8470000;8470000;De 5,000,001 a 10,000,000;280;1250;189.08;6000;True
 Mercedes-Benz CLS;60;Diesel;1950;4;5;Automatic;66;Coupe;4.5;885000;912000;De 0 a 1,000,000;500;2400;241.3;4200;True
-Mahindra Bolero PikUp ExtraLong;5;Diesel;2523;4;2;Manual;60;Pickup Truck;4.5;23300000;23300000;De 20,000,001 a más;200;2200;75.09;3200;True
+Mahindra Bolero PikUp ExtraLong;5;Diesel;2523;4;2;Manual;60;Pickup Truck;4.5;23300000;23300000;De 20,000,001 a mas;200;2200;75.09;3200;True
 Lexus LX;1;Petrol;5663;8;8;Automatic;93;SUV;5;8700000;8700000;De 5,000,001 a 10,000,000;530;3200;362;5600;True
 Mercedes-Benz AMG GLC 43;9;Petrol;2996;6;5;Automatic;0;SUV;4.5;927000;976000;De 0 a 1,000,000;520;5000;384.87;6100;True
 Mahindra Bolero Camper;88;Diesel;2523;4;5;Manual;57;Pickup Truck;4.5;2999000;3549000;De 1,000,000 a 5,000,000;200;2200;75.09;3200;True
 Tata Nexon EV Max;1;Electric;0;0;5;Electric;0;SUV;5;463000;583000;De 0 a 1,000,000;250;0;141.04;0;True
 Mahindra Bolero Neo;97;Diesel;1493;3;7;Manual;50;SUV;4.5;903000;1173000;De 1,000,000 a 5,000,000;260;2250;100;3750;True
-Mahindra Bolero Neo;1;Diesel;1493;3;7;Manual;50;SUV;4.5;13500000;25700000;De 20,000,001 a más;260;2250;100;3750;True
+Mahindra Bolero Neo;1;Diesel;1493;3;7;Manual;50;SUV;4.5;13500000;25700000;De 20,000,001 a mas;260;2250;100;3750;True
 Audi e-tron GT;1;Electric;0;0;5;Electric;0;Coupe;4.5;5800000;5800000;De 5,000,001 a 10,000,000;630;0;522.99;0;True
-Maruti Swift Dzire Tour;1;CNG;1197;4;5;Manual;55;Sedan;4.5;13500000;25700000;De 20,000,001 a más;95;4000;70.4;6000;True
+Maruti Swift Dzire Tour;1;CNG;1197;4;5;Manual;55;Sedan;4.5;13500000;25700000;De 20,000,001 a mas;95;4000;70.4;6000;True
 Mercedes-Benz AMG A 35;21;Petrol;1991;4;5;Automatic;51;Sedan;4.5;1989000;1989000;De 1,000,000 a 5,000,000;400;4000;301.73;5800;True
 Mercedes-Benz GLC Coupe;5;Diesel;1950;4;5;Automatic;66;Coupe;5;3132000;3132000;De 1,000,000 a 5,000,000;500;2400;241.38;4200;True
 Toyota Glanza;23;Petrol;1197;4;5;Automatic;37;Hatchback;4.5;2990000;3695000;De 1,000,000 a 5,000,000;113;4400;88.5;6000;True
@@ -200,5 +200,5 @@ Jeep Meridian;78;Diesel;1956;4;7;Automatic;60;SUV;4.5;1615000;2075000;De 1,000,0
 Mercedes-Benz AMG A 45 S;35;Petrol;1991;4;5;Automatic;0;Hatchback;4.5;659000;999000;De 0 a 1,000,000;500;5250;415.71;6750;True
 BMW 3 Series Gran Limousine;3;Petrol;1998;4;5;Automatic;59;Sedan;4.5;1041000;1041000;De 1,000,000 a 5,000,000;400;4400;254.79;5000;True
 MG Hector Plus;2;Diesel;1956;4;7;Manual;60;SUV;4.5;1615000;2075000;De 1,000,000 a 5,000,000;350;2500;167.67;3750;True
-Audi RS Q8;9;Petrol;3998;8;5;Automatic;85;SUV;3.5;21700000;21700000;De 20,000,001 a más;800;4500;591.39;6000;False
+Audi RS Q8;9;Petrol;3998;8;5;Automatic;85;SUV;3.5;21700000;21700000;De 20,000,001 a mas;800;4500;591.39;6000;False
 Maruti Alto 800 tour;4;Petrol;796;3;5;Manual;35;Hatchback;4.5;391000;397000;De 0 a 1,000,000;69;3500;47.33;6000;True
